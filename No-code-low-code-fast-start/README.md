@@ -5,9 +5,6 @@ The public re:Invent lab uses *Salesforce → AppFlow* for ingestion; I reproduc
 
 ## 🗺️ Architecture
 
-**Custom diagram (repo social preview recommended):**  
-![Custom architecture](architecture/custom-architecture.png)
-
 **Reference diagram from AWS workshop (credit: AWS re:Invent):**  
 ![Workshop architecture](architecture/architecture-workshop.png)
 
